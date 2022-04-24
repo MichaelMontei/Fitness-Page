@@ -26,14 +26,36 @@ h1 {
 .container-two {
     position: absolute;
     top: 40px;
-    left: 400px;
+    left: 500px;
+}
+.container-three {
+    position: absolute;
+    top: 40px;
+    left:1000px;
+}
+
+.container-four {
+    position: absolute;
+    top: 40px;
+    left: 1500px;
 }
 
 .back {
     position: absolute;
     top: 0px;
-    left: 400px;
+    left: 500px;
+}
 
+.shoulder {
+    position: absolute;
+    top: 0px;
+    left: 1000px;
+}
+
+.legs {
+    position: absolute;
+    top: 00px;
+    left: 1500px;
 }
 
 .button{
